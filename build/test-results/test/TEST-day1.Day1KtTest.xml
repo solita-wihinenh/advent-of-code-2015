@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="day1.Day1KtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-05T10:47:19" hostname="SOLPF1BEWPS" time="0.021">
+  <properties/>
+  <testcase name="decodeFloor()" classname="day1.Day1KtTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
