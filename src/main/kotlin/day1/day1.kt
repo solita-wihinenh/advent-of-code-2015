@@ -2,7 +2,7 @@ package day1
 
 import java.io.File
 
-fun main(args: Array<String>) {
+fun main() {
     println("Day 1 - Start!")
     val instructions = loadData("src/main/resources/day1.txt")
     println("Part 1: ${decodeFloor(instructions, 0)}")

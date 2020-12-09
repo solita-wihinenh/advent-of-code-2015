@@ -3,7 +3,7 @@ package day3
 import java.awt.Point
 import java.io.File
 
-fun main(args: Array<String>) {
+fun main() {
     println("Day 3 - Start!")
     val instructions = loadData("src/main/resources/day3.txt")
 
